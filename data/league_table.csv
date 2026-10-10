@@ -1,0 +1,21 @@
+﻿Team,Played,Won,Drawn,Lost,Goals For,Goals Against,Goal Difference,Points,"Form, Last 6 games, Oldest first"
+Manchester City,5,5,0,0,13,5,8,15,No ResultWResult WinWResult WinWResult WinWResult WinWResult Win
+Arsenal,5,4,0,1,8,4,4,12,No ResultWResult WinWResult WinWResult WinWResult WinLResult Loss
+Brighton & Hove Albion,5,3,1,1,16,5,11,10,No ResultWResult WinLResult LossDResult DrawWResult WinWResult Win
+Brentford,5,2,3,0,10,4,6,9,No ResultWResult WinDResult DrawDResult DrawDResult DrawWResult Win
+Leeds United,5,2,3,0,7,3,4,9,No ResultWResult WinDResult DrawDResult DrawWResult WinDResult Draw
+Liverpool,5,2,3,0,7,4,3,9,No ResultDResult DrawDResult DrawWResult WinDResult DrawWResult Win
+Everton,5,2,3,0,6,3,3,9,No ResultWResult WinDResult DrawDResult DrawDResult DrawWResult Win
+Hull City,5,2,2,1,6,4,2,8,No ResultWResult WinWResult WinDResult DrawDResult DrawLResult Loss
+Newcastle United,5,2,2,1,9,9,0,8,No ResultDResult DrawWResult WinDResult DrawLResult LossWResult Win
+Chelsea,5,2,1,2,10,12,-2,7,No ResultWResult WinWResult WinLResult LossDResult DrawLResult Loss
+Ipswich Town,5,2,0,3,7,11,-4,6,No ResultWResult WinLResult LossLResult LossWResult WinLResult Loss
+Manchester United,5,1,2,2,8,8,0,5,No ResultLResult LossWResult WinDResult DrawLResult LossDResult Draw
+Nottingham Forest,5,1,2,2,4,5,-1,5,No ResultLResult LossDResult DrawDResult DrawWResult WinLResult Loss
+Sunderland,5,1,1,3,6,10,-4,4,No ResultLResult LossWResult WinDResult DrawLResult LossLResult Loss
+Crystal Palace,5,1,1,3,6,11,-5,4,No ResultLResult LossLResult LossWResult WinLResult LossDResult Draw
+Aston Villa,5,1,1,3,4,9,-5,4,No ResultLResult LossLResult LossDResult DrawLResult LossWResult Win
+Bournemouth,5,0,3,2,6,8,-2,3,No ResultLResult LossDResult DrawDResult DrawDResult DrawLResult Loss
+Coventry City,5,1,0,4,1,10,-9,3,No ResultLResult LossLResult LossLResult LossLResult LossWResult Win
+Fulham,5,0,2,3,5,8,-3,2,No ResultLResult LossLResult LossLResult LossDResult DrawDResult Draw
+Tottenham Hotspur,5,0,2,3,2,8,-6,2,No ResultLResult LossLResult LossDResult DrawDResult DrawLResult Loss
